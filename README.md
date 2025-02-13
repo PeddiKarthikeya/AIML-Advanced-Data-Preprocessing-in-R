@@ -11,7 +11,7 @@ This repository contains an R script for performing data preprocessing operation
 # Mode Calculation:
   Find the most frequent value in a categorical dataset.
 
-# Code Implementation
+# Rough Code Implementation
 data <- data.frame(
   ID = 1:5,
   Age = c(25, NA, 30, NA, 45),
